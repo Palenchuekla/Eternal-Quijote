@@ -3,3 +3,8 @@ Following the steps of the notorious Andrej Karpathy in the following video-tuto
 NOTE: The validation process and the batch creation is simplified.
 - Batch creation randomly selects samples, does not take into account samples reapeated samples (within and/or outside the batch).
 - Validation method: Hold Out. No Cross-validation.
+
+# Repository Content
+- [Eternal_Quijote.ipynb](Eternal_Quijote.ipynb) → Whole commented project as a Jupyter Notebook.
+- [el_quijote.txt](el_quijote.txt) → "El Quijote" from Miguel de Cervantes in plain text.
+- [best_model_quijote](best_model_quijote) → Weights of the best found model during training.
