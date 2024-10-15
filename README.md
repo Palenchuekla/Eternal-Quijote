@@ -7,5 +7,5 @@ NOTE: The validation process and the batch creation is simplified.
 
 # Repository Content
 - [Eternal_Quijote.ipynb](Eternal_Quijote.ipynb) → Whole commented project as a Jupyter Notebook.
-- [el_quijote.txt](el_quijote.txt) → "El Quijote" from Miguel de Cervantes in plain text.
+- [el_quijote.txt](el_quijote.txt) → "El Quijote de la Mancha" from Miguel de Cervantes in plain text.
 - [best_model_quijote](best_model_quijote) → Weights of the best found model during training.
